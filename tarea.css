@@ -1,0 +1,12 @@
+.ingresar{
+    border-color: rgb(142, 241, 241);
+    background-color: rgb(244, 248, 248);
+    text-align: center;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 70%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
